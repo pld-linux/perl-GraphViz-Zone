@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	GraphViz
-%define		pnam	Zone
+%define	pdir	GraphViz
+%define	pnam	Zone
 Summary:	GraphViz::Zone Perl module - interface to graphing hosts in BIND zone files
 Summary(pl):	Modu³ Perla GraphViz::Zone - interfejs do obrazowania hostów z plików stref BIND-a
 Name:		perl-GraphViz-Zone
