@@ -8,7 +8,7 @@ Summary:	GraphViz::Zone Perl module - interface to graphing hosts in BIND zone f
 Summary(pl):	Modu³ Perla GraphViz::Zone - interfejs do obrazowania hostów z plików stref BIND-a
 Name:		perl-GraphViz-Zone
 Version:	0.01
-Release:	1
+Release:	2
 License:	Artistic or GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
