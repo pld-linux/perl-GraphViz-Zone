@@ -10,7 +10,8 @@ Summary(pl):	Modu³ Perla GraphViz::Zone - interfejs do obrazowania hostów z plik
 Name:		perl-GraphViz-Zone
 Version:	0.01
 Release:	2
-License:	Artistic or GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	727c036d878aa6224ee825d7a77ee39b
