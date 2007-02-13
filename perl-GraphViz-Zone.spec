@@ -6,7 +6,7 @@
 %define		pdir	GraphViz
 %define		pnam	Zone
 Summary:	GraphViz::Zone Perl module - interface to graphing hosts in BIND zone files
-Summary(pl.UTF-8):   Moduł Perla GraphViz::Zone - interfejs do obrazowania hostów z plików stref BIND-a
+Summary(pl.UTF-8):	Moduł Perla GraphViz::Zone - interfejs do obrazowania hostów z plików stref BIND-a
 Name:		perl-GraphViz-Zone
 Version:	0.01
 Release:	3
